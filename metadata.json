@@ -1,0 +1,5 @@
+{
+  "name": "Cybersecurity Threat Watch",
+  "description": "An application that uses AI to scrape and summarize the latest cybersecurity threats, including zero-day exploits, new CVEs, and ransomware attacks, presenting them in a structured format.",
+  "requestFramePermissions": []
+}
